@@ -1,5 +1,5 @@
 <!-- Background github cover with short introduction down below -->
-<img src="https://github.com/flexycode/flexycode/blob/main/assets/ragnarok-online.png" />
+<img src="https://github.com/Seausel1102/Seausel1102/blob/main/assets/baesuzzy.png" />
 <h1 align="center">
 Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://github.com/Seausel1102" target="_blank" rel="noreferrer">Mary Ynah</a>
 </h1>
