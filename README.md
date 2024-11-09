@@ -11,7 +11,22 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <i class="fab fa-pinterest"></i>
 
+<!-- Button Pannel for Github follers and views -->
+<p align="center">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Seausel1102?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/twitter/follow/Seausel1102?logo=twitter&style=for-the-badge" <a href="https://dev.to/flexycode/ alt="ThrippleK" />
+<img src="https://komarev.com/ghpvc/?username=Seausel1102&color=blue&style=for-the-badge" alt="ThrippleK" />
+</p>
 
+<!-- Buy me a coffee link :) , you can replace the link if you already have one. Just leave this for now to support my page -->
+<div align="center">
+<a href="https://buymeacoffee.com/flexycode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
+
+<!-- Coffee GIF -->
+<div align="center">
+<img width="200" height="200" src="https://media.giphy.com/media/pEuD18F5xjR9SNVmYz/giphy.gif?cid=ecf05e477msbxbsg2s2m2rlbro0u4tz1i1icm1t4vug8mqne&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+</div>
 
 
 
